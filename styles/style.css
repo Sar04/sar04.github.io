@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+header, footer, .main-area{
+    background-color:  #1F2937;
+}
+
+header li{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+header p{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main-area h1{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.main-area p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button, .alert{
+    background-color: #3882F6;
+}
+
+.info, header{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
